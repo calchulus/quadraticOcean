@@ -2,7 +2,7 @@
 
 This is a work in progress, as I found out about this hackathon a bit late. I hope to submit more of my ideas and some working versions of an interface.
 
-Thanks for taking the time to check this out! I hope to be able to have an extension to continue developing, but I have created the framework and logic for the voting below.
+Thanks for taking the time to check this out! I hope to be able to have an extension to continue developing, but I have created the framework and logic for the voting below. I've forked the initial creatreact app marketplace and hope to build some of the functionality in the coming week. 
 
 [Google doc for reading](https://docs.google.com/document/d/15jCUONWOrSQjNabBmHD_wlWw3wPIz5NM7ISzZPgZttE/edit?usp=sharing)
 
