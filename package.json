@@ -1,0 +1,25 @@
+/**
+ * https://github.com/oceanprotocol/react-tutorial/blob/master/package.json
+ */
+ {
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "React + squid.js interacting in the most minimal way with Ocean Protocol.",
+  "dependencies": {
+    "@oceanprotocol/squid": "^2.0.0",
+    "prettier": "^2.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "web3": "^1.2.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
