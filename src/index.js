@@ -114,6 +114,10 @@ class App extends Component {
         </button> */}
         <hr />
         <button onClick={() => this.searchAssets()}>Search assets</button>
+
+
+        {/* TODO: */}
+        <button onClick={alert("coming soon")}>Stake Assets</button>
         <button onClick={() => this.consumeAsset()} disabled={!web3}>
           Consume asset
         </button>
