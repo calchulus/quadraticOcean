@@ -2,7 +2,9 @@
 
 This is a work in progress, as I found out about this hackathon a bit late. I hope to submit more of my ideas and some working versions of an interface.
 
-Thanks for taking the time to check this out!
+Thanks for taking the time to check this out! I hope to be able to have an extension to continue developing, but I have created the framework and logic for the voting below.
+
+[Google doc for reading](https://docs.google.com/document/d/15jCUONWOrSQjNabBmHD_wlWw3wPIz5NM7ISzZPgZttE/edit?usp=sharing)
 
 
 Quadratic Voting is most useful in cases where there are n-many options for users to select, such that individuals can prioritize or weed through the masses. Especially in a sea of data on Ocean, it will be very important to help users effectively get to the most useful and insightful sets and tools to make sure that valuable time and resources are allocated to the most promising efforts. 
