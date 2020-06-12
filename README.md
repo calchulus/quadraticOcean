@@ -53,3 +53,9 @@ Finally, with regards to vote, we can allow for the score of one vote to carry o
 We finally allocate the number of github stars a set maintains as a 5% free weight against the 50% staked vote weight and 50% volume based weight, in which a team’s algo may be able to earn some votes purely from being a popular choice within the Github community. This however, limits the possible maximum that any fraudulent or malicious sybil attacks may have on the vote. In effect, this is a way to get GitHub users, a community that is valuable (in terms of developer attention time) and useful to the Ocean Protocol ecosystem, and starring good algorithms will help promote them in the activity feeds of Github Users. 
 
 This 5% free weight may be in the future adjusted via governance vote/replaced by other relevant, easy to grab metrics that require some level of authentication in order to “vote” for free.
+
+
+Todo:
+
+- Simplify the logic of this system to make it easy for beginner to understand
+- Work on JS interface to display this
